@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "123",
+      "name": "mohamed sabith",
+      "email": "sabith@gmail.com",
+      "state": "Active"
+    },
+    {
+      "id": "3456",
+      "name": "mohamed",
+      "email": "sabith@gmail.com",
+      "state": "Inactive"
+    }
+  ]
+}
